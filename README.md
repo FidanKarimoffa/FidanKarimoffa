@@ -6,9 +6,7 @@ I am on a journey to become a data scientist, leveraging my analytical skills an
 - **Regression Analysis**: Building and evaluating regression models to predict continuous outcomes.
 - **Classification**: Implementing various classification algorithms to predict categorical outcomes.
 - **Clustering**: Grouping similar data points using clustering techniques.
-- **Time Series Analysis**: Analyzing and forecasting time-dependent data.
-- **Natural Language Processing (NLP)**: Working with text data to extract meaningful information.
-- **Machine Learning**: Building and deploying machine learning models.
+
 
 
 <!---
