@@ -1,15 +1,41 @@
-I am Fidan, a master's student in Computer Science at the University of Tartu with a passion for data science. 
-I am on a journey to become a data scientist, leveraging my analytical skills and academic background to solve complex problems and uncover insights from data.
+# 👋 Hey there, I'm Fidan Karimova!  
 
-- **Data Preprocessing**: Cleaning and transforming raw data into a usable format.
-- **Data Visualization**: Creating informative and visually appealing plots and dashboards.
-- **Regression Analysis**: Building and evaluating regression models to predict continuous outcomes.
-- **Classification**: Implementing various classification algorithms to predict categorical outcomes.
-- **Clustering**: Grouping similar data points using clustering techniques.
+🚀 **Data Scientist** | 📊 **Machine Learning Enthusiast** | 🧠 **Continuous Learner**  
+
+Welcome to my GitHub! I’m passionate about **solving real-world problems** with data-driven solutions, machine learning, and deep learning. With **2+ years of IT experience**, I enjoy working on **collaborative projects** where innovation and brainstorming thrive!  
+
+---
+
+## 🔍 About Me  
+
+- 📍 Currently based in **Estonia**  
+- 📈 Focused on **Machine Learning, Deep Learning, and Data Science**  
+- 🎯 Passionate about **predictive modeling, optimization, and AI-driven solutions**  
+- 🤝 Love **collaborating on projects**  
+- 📚 Always learning **new algorithms & ML techniques**  
+
+---
+
+## 🛠️ Tech Stack  
+
+**📌 Programming:** Python, SQL  
+**📌 Data Manipulation:** Pandas, NumPy  
+**📌 ML Frameworks:** TensorFlow, Keras, Scikit-learn  
+**📌 Algorithms:** XGBoost, Random Forest, SVM, Decision Trees, Clustering (K-Means, DBSCAN)  
+**📌 Deep Learning:** CNNs, ANNs  
+**📌 Dimensionality Reduction:** PCA  
+**📌 Visualization:** Matplotlib, Seaborn  
+**📌 Version Control:** Git, GitHub  
+
+---
 
 
+## 📢 Let’s Connect!  
 
-<!---
-FidanKarimoffa/FidanKarimoffa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📧 **Email:** [fidan.kerimova56@gmail.com](mailto:fidan.kerimova56@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/fidan-karimova27](https://www.linkedin.com/in/fidan-karimova27/)  
+🌎 **GitHub:** [github.com/FidanKarimoffa](https://github.com/FidanKarimoffa)  
+
+---
+
+🎯 _Always looking for exciting opportunities and collaborations! If you have a cool project, let's talk!_ 🚀
